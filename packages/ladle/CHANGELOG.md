@@ -1,5 +1,11 @@
 # @ladle/react
 
+## 1.1.0
+
+### Minor Changes
+
+- [#156](https://github.com/tajo/ladle/pull/156) [`0e316d6`](https://github.com/tajo/ladle/commit/0e316d645bc215af384adcc2b785c8f953f57357) Thanks [@tajo](https://github.com/tajo)! - Reuse the same tab for Ladle serve when the env is Google Chrome and OSX.
+
 ## 1.0.1
 
 ### Patch Changes
